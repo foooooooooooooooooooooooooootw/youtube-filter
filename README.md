@@ -1,8 +1,8 @@
 # YouTube Filter
 <br><br>
 <div align="center">
-<a href="https://github.com/foooooooooooooooooooooooooootw/Depoliticize-Destiny/releases/latest/download/youtubefilter.crx" install latest>
-    <img src="https://github.com/foooooooooooooooooooooooooootw/Depoliticize-Destiny/blob/main/res/install.png" alt="Install Button" style="width: 126px; height: 40px;">
+<a href="https://github.com/foooooooooooooooooooooooooootw/youtube-filter/releases/latest/download/youtubefilter.crx" install latest>
+    <img src="https://github.com/foooooooooooooooooooooooooootw/youtube-filter/blob/main/res/install.png" alt="Install Button" style="width: 126px; height: 40px;">
 </a>
 </div>
 <br><br>
