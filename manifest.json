@@ -1,8 +1,9 @@
 {
   "manifest_version": 3,
   "name": "YouTube Filter",
-  "version": "1.0",
+  "version": "1.1",
   "description": "Removes YouTube videos based on keywords or channel names.",
+  "id":"57a5f6cfa3f55f3fa06c3820846eb345d11dc4532ca2433e405533414d1a1072",
   "permissions": ["storage", "scripting", "tabs"],
   "host_permissions": ["https://www.youtube.com/*"],
   "action": {
