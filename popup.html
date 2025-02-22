@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YouTube Filter</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            width: 300px;
+            padding: 15px;
+        }
+        h2 { text-align: center; }
+        input {
+            width: 80%;
+            padding: 5px;
+        }
+        button {
+            padding: 5px 10px;
+            cursor: pointer;
+        }
+        ul { list-style: none; padding: 0; }
+        li {
+            background: #f0f0f0;
+            margin: 5px 0;
+            padding: 5px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .remove { cursor: pointer; color: red; }
+    </style>
+</head>
+<body>
+    <h2>YouTube Filter</h2>
+
+    <h3>Blocked Keywords</h3>
+    <input id="keywordInput" type="text" placeholder="Add keyword">
+    <button id="addKeyword">+</button>
+    <ul id="keywordList"></ul>
+
+    <h3>Blocked Channels</h3>
+    <input id="channelInput" type="text" placeholder="Add channel">
+    <button id="addChannel">+</button>
+    <ul id="channelList"></ul>
+
+    <script src="popup.js"></script>
+</body>
+</html>
